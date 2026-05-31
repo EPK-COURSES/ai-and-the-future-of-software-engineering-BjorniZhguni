@@ -148,3 +148,17 @@ Another limitation is the issue of **hallucination**, where AI systems generate 
 Finally, there are concerns related to **intellectual property and copyright**, as AI models are trained on large datasets that may include publicly available or licensed code. This raises questions about ownership, originality, and ethical usage in professional environments.
 
 Overall, while AI coding tools provide valuable assistance, they must be used carefully and always combined with human expertise, critical thinking, and proper validation processes.
+
+## 6. Do AI Tools Assist or Replace Developers?
+
+A central question in modern software engineering is whether AI coding tools will eventually replace software developers or simply assist them. While AI systems have become increasingly powerful, current evidence suggests that they function primarily as supportive tools rather than full replacements for human engineers.
+
+AI coding tools are highly effective at automating repetitive tasks such as writing boilerplate code, generating simple functions, and suggesting code completions. These capabilities significantly increase productivity and allow developers to focus on more complex and creative aspects of software engineering. However, these tools still lack the ability to fully understand project goals, business requirements, and real-world constraints.
+
+Software engineering is not only about writing code. It also involves system design, problem-solving, collaboration, and decision-making. These areas require human judgment and experience, which AI systems cannot fully replicate. For example, designing scalable system architectures or making trade-offs between performance and maintainability requires deep understanding and contextual awareness that AI currently lacks.
+
+Furthermore, AI tools depend on human developers to validate and integrate their output. Without human supervision, AI-generated code can introduce bugs, inefficiencies, or security vulnerabilities into a system. This reinforces the idea that AI functions as an assistant rather than an autonomous engineer.
+
+In the long term, AI is expected to change the role of software developers rather than eliminate it. Developers will increasingly focus on higher-level tasks such as architecture design, system optimization, and strategic decision-making, while AI handles repetitive coding tasks. This shift will require engineers to develop new skills, including AI literacy and the ability to effectively collaborate with AI systems.
+
+Therefore, AI coding tools should be viewed as productivity enhancers that extend human capabilities rather than technologies that replace software engineers entirely.
