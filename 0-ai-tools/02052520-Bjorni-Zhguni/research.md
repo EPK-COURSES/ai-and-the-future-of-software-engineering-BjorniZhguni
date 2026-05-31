@@ -130,3 +130,21 @@ Reducing repetitive work can improve job satisfaction and enable engineers to de
 ### 4.7 Summary of Benefits
 
 The benefits of AI coding tools extend beyond simple code generation. These technologies can increase development speed, improve productivity, support learning, enhance documentation, assist with debugging, and reduce repetitive tasks. While AI tools cannot replace the expertise and judgment of software engineers, they have become valuable assistants that help developers work more effectively in modern software development environments.
+
+## 5. Limitations and Challenges of AI Coding Tools
+
+Although AI coding and development tools provide significant advantages in software engineering, they also introduce several limitations and challenges that must be carefully considered. These limitations highlight why human oversight remains essential in modern software development.
+
+One of the most important issues is the **possibility of incorrect or misleading code generation**. AI tools generate code based on patterns learned from large datasets, but they do not truly understand the logic or intent behind a specific project. As a result, the generated code may contain logical errors, inefficient implementations, or outdated programming practices. Developers must carefully review and test AI-generated output before using it in production systems.
+
+Another major concern is **security vulnerabilities**. AI-generated code may unintentionally include insecure coding patterns such as improper input validation, unsafe API usage, or weak authentication logic. If developers rely on such code without proper review, it can lead to serious security risks in real-world applications.
+
+**Overreliance on AI tools** is also a growing concern in the software engineering community. While AI can increase productivity, excessive dependence on these tools may reduce developers’ ability to solve problems independently. This can negatively affect learning, skill development, and long-term professional growth, especially for junior developers.
+
+Additionally, AI tools may contribute to **skill degradation over time**. If developers rely heavily on automated suggestions for coding and debugging, they may gradually lose proficiency in core programming concepts such as algorithm design, system architecture, and low-level debugging.
+
+Another limitation is the issue of **hallucination**, where AI systems generate confident but incorrect explanations or code. This can be particularly dangerous when developers assume the output is accurate without verification.
+
+Finally, there are concerns related to **intellectual property and copyright**, as AI models are trained on large datasets that may include publicly available or licensed code. This raises questions about ownership, originality, and ethical usage in professional environments.
+
+Overall, while AI coding tools provide valuable assistance, they must be used carefully and always combined with human expertise, critical thinking, and proper validation processes.
