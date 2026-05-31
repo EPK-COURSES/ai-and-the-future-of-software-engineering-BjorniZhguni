@@ -176,3 +176,15 @@ The job market for software engineers is also expected to evolve. While entry-le
 Additionally, continuous learning will become even more important. Because AI technology evolves rapidly, software engineers must consistently update their skills and adapt to new tools and frameworks. This creates an environment where lifelong learning is essential for long-term career success.
 
 Overall, AI will not eliminate the need for software engineers but will redefine their responsibilities. The future software engineer will act more as a system designer, problem solver, and AI collaborator rather than a purely code-writing professional.
+
+## 8. Conclusion
+
+AI coding and development tools have become a transformative force in modern software engineering. They have significantly changed how developers write code, debug software, and manage development workflows. Tools such as GitHub Copilot, ChatGPT, and other AI-assisted platforms demonstrate the growing ability of artificial intelligence to support and enhance software development processes.
+
+This research has shown that AI tools offer substantial benefits, including increased productivity, faster development cycles, and improved access to programming knowledge. They also help reduce repetitive tasks and provide valuable support for learning and problem-solving. However, these advantages come with important limitations, including the risk of incorrect code generation, security vulnerabilities, and overreliance on automated systems.
+
+A key finding of this study is that AI coding tools do not replace software engineers but instead act as assistants that enhance human capabilities. Software engineering still requires critical thinking, system design, collaboration, and decision-making skills that AI cannot fully replicate. Therefore, human oversight remains essential in ensuring software quality and reliability.
+
+Looking ahead, AI will continue to reshape the software engineering profession by changing workflows, creating new job roles, and increasing the importance of AI literacy. Developers who adapt to these changes and continuously improve their skills will remain valuable in the evolving technology landscape.
+
+In conclusion, AI coding and development tools represent a major step forward in software engineering, but their success depends on how effectively humans integrate and manage them within the development process.
