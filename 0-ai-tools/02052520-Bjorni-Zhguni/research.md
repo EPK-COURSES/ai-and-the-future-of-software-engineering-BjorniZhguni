@@ -162,3 +162,17 @@ Furthermore, AI tools depend on human developers to validate and integrate their
 In the long term, AI is expected to change the role of software developers rather than eliminate it. Developers will increasingly focus on higher-level tasks such as architecture design, system optimization, and strategic decision-making, while AI handles repetitive coding tasks. This shift will require engineers to develop new skills, including AI literacy and the ability to effectively collaborate with AI systems.
 
 Therefore, AI coding tools should be viewed as productivity enhancers that extend human capabilities rather than technologies that replace software engineers entirely.
+
+## 7. Future Impact on Software Engineering
+
+The integration of AI coding and development tools is expected to significantly reshape the future of software engineering. As these tools continue to evolve, they will influence not only how software is written but also how software engineering roles are defined and executed.
+
+One major change will be in the **workflow of developers**. Routine coding tasks are increasingly being automated, allowing engineers to focus more on system design, architecture, and high-level problem-solving. This shift will likely improve productivity and reduce development time for many software projects.
+
+Another important impact is the rise of **AI literacy as a core skill** for software engineers. In the future, developers will be expected to understand how AI tools work, how to prompt them effectively, and how to evaluate the correctness of AI-generated output. This represents a new layer of technical competency in addition to traditional programming skills.
+
+The job market for software engineers is also expected to evolve. While entry-level coding tasks may become more automated, new roles will emerge that focus on AI system integration, model supervision, and AI-assisted software architecture. Developers who adapt to these changes will likely remain highly competitive in the industry.
+
+Additionally, continuous learning will become even more important. Because AI technology evolves rapidly, software engineers must consistently update their skills and adapt to new tools and frameworks. This creates an environment where lifelong learning is essential for long-term career success.
+
+Overall, AI will not eliminate the need for software engineers but will redefine their responsibilities. The future software engineer will act more as a system designer, problem solver, and AI collaborator rather than a purely code-writing professional.
